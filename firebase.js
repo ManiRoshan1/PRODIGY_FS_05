@@ -7,7 +7,7 @@ import { initializeApp } from "firebase/app"
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCcT7B1WRDqhg95nNLt7zcm8jMI_Jut32I",
+    apiKey: "hi",
     authDomain: "twit-e135f.firebaseapp.com",
     projectId: "twit-e135f",
     storageBucket: "twit-e135f.appspot.com",
